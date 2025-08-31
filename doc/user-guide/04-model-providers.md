@@ -1,6 +1,6 @@
-# 模型提供商
+# Model Providers
 
-> 本章节详细介绍 Odin 框架支持的各种模型提供商，包括它们的特性、配置方法和使用示例。
+> This chapter provides detailed information about various model providers supported by the Odin framework, including their features, configuration methods, and usage examples.
 
 ## 支持的模型一览
 

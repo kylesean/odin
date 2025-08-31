@@ -1,6 +1,6 @@
-# API 参考
+# API Reference
 
-> 本章节详细说明 Odin 框架的 API 接口及主要类的用法。
+> This chapter provides detailed documentation of Odin framework's API interfaces and main class usage.
 
 ## 模型相关接口
 

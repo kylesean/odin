@@ -1,6 +1,6 @@
-# 核心概念
+# Core Concepts
 
-> 本章节介绍 Odin 框架的核心概念和设计原则，帮助您深入理解框架的工作原理。
+> This chapter introduces the core concepts and design principles of the Odin framework, helping you understand the framework's working principles in depth.
 
 ## LLM 模型接口
 

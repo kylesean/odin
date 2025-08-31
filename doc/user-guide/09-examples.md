@@ -1,6 +1,6 @@
-# 示例项目
+# Example Projects
 
-> 本章节展示了使用 Odin 框架构建的各类实际应用示例，帮助您快速了解如何将框架应用到不同场景中。
+> This chapter showcases various practical application examples built using the Odin framework, helping you quickly understand how to apply the framework to different scenarios.
 
 ## 基础聊天应用
 
